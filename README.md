@@ -79,10 +79,11 @@ Build a strong programming foundation using C# and prepare for Backend Developme
 - C# Basics
 
 **🔗 Resources**
-- Piece of Cake Dev (1:19)
-- Passionate Coders
-- Codographia
-- Metigator
+- [Piece of Cake Dev (1:19)](https://youtube.com/playlist?list=PLfHpC6JZ316dbrFn-jAwMBZwMqkcAabWB&si=jzdDGGSOz3Ok5dAZ)
+- [Passionate Coders](https://www.youtube.com/playlist?list=PLsV97AQt78NT0H8J71qe7edwRpAirfqOI)
+- [Codographia](https://youtube.com/playlist?list=PLX1bW_GeBRhCU9l7examhVrARmXHHRrLR&si=fb-w5dS3XwPl8N7E)
+- [Metigator](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6SWPbJNpiznp-Ok4A8J_23l)
+- [Microsoft Foundational C# Certification — FreeCodeCamp](https://www.freecodecamp.org/news/free-microsoft-c-sharp-certification/)
 
 **📝 Note**
 
@@ -99,11 +100,11 @@ Don't focus on memorizing syntax. Try to understand how the language works and p
 - Object-Oriented Programming (OOP)
 
 **🔗 Resources**
-- Piece of Cake Dev (1:16)
-- Passionate Coders
-- Metigator (7–22)
-- ITI Recordings
-- Codographia
+- [Piece of Cake Dev](https://youtube.com/playlist?list=PLfHpC6JZ316f6YXKyux0dHjJXA0Kg38p7&si=GC0ePTwaVyRl6i2P)
+- [Passionate Coders](https://youtube.com/playlist?list=PLsV97AQt78NQumtM4rQc77yjbkZcGOTX5&si=Tt9g0qv_-93IyS0O)
+- [Metigator (7–22)](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6SWPbJNpiznp-Ok4A8J_23l)
+- [ITI Recordings](https://drive.google.com/drive/folders/1WbY2Doyapd6FJmM1-vU7A-0VutZMluS-C)
+- [Codographia](https://youtube.com/playlist?list=PLX1bW_GeBRhAfq0EsDHH4YemBAd6G-H75&si=Doy7YZ6XG9rfsIjA)
 
 **📝 Note**
 
@@ -118,9 +119,9 @@ OOP is one of the most important foundations for Backend Development with C#. Fo
 - Collections
 
 **🔗 Resources**
-- Piece of Cake Dev (1:7)
-- Metigator
-- Codographia
+- [Piece of Cake Dev (1:7)](https://youtube.com/playlist?list=PLfHpC6JZ316ciHMql4eXK1zfzuttajevf&si=KWCvLoQVPCy0e6Yv)
+- [Metigator](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6SWPbJNpiznp-Ok4A8J_23l)
+- [Codographia](https://youtube.com/playlist?list=PLX1bW_GeBRhBbnebNayUDYlQJRBKwZKlo)
 
 **📝 Note**
 
@@ -137,8 +138,8 @@ Collections are used everywhere in Backend Development. Practice choosing the ap
 - Lambda Expressions
 
 **🔗 Resources**
-- Passionate Coders (1:4)
-- Piece of Cake Dev (2 & 5)
+- [Passionate Coders (1:4)](https://youtube.com/playlist?list=PLsV97AQt78NQYhO7NqlBTrJX_Nsk3SmyY&si=P38msZaLLIGpK9Zp)
+- [Piece of Cake Dev (2 & 5)](https://youtube.com/playlist?list=PLfHpC6JZ316dwb3MN8W6XuBuyaTA8RVaW&si=8emviHGi7AM-p8LY)
 
 **📝 Note**
 
@@ -153,8 +154,8 @@ Focus on understanding the idea and practical use rather than memorizing every s
 - Async & Await
 
 **🔗 Resources**
-- Passionate Coders (5:6)
-- Metigator
+- [Passionate Coders (5:6)](https://www.youtube.com/playlist?list=PLsV97AQt78NQYhO7NqlBTrJX_Nsk3SmyY)
+- [Metigator](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6SWPbJNpiznp-Ok4A8J_23l)
 
 **📝 Note**
 
@@ -168,9 +169,9 @@ Focus on understanding how async and await work and why they are commonly used i
 - SQL Basics
 
 **🔗 Resources**
-- Mohamed El Desouki (1:23)
-- ITI Recordings
-- Metigator
+- [Mohamed El Desouki (1:23)](https://youtube.com/playlist?list=PL1DUmTEdeA6J6oDLTveTt4Z7E5qEfFluE&si=kEh-mb3yRKkhbb7n)
+- [ITI Recordings](https://youtube.com/playlist?list=PLoRh0POuk1Rw-BZU-DPI6cA_c5W9_2uF_&si=ar2HDGvREar0xoEy)
+- [Metigator](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6RP_OovpgjoHLkCVaYFy-aj)
 
 **📝 Note**
 
@@ -184,9 +185,9 @@ SQL is a core skill for Backend Developers. Understand how data is structured an
 - Advanced SQL
 
 **🔗 Resources**
-- Eng Eldesoky (24:44)
-- ITI Recordings
-- Metigator
+- [Eng Eldesoky (24:44)](https://www.youtube.com/playlist?list=PL1DUmTEdeA6J6oDLTveTt4Z7E5qEfFluE)
+- [ITI Recordings](https://youtube.com/playlist?list=PLoRh0POuk1Rw-BZU-DPI6cA_c5W9_2uF_&si=ar2HDGvREar0xoEy)
+- [Metigator](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6RP_OovpgjoHLkCVaYFy-aj)
 - [Maharatech — Revision & Completion Certificate](https://maharatech.gov.eg/course/view.php?id=740)
 
 **📝 Note**
@@ -204,12 +205,12 @@ Become comfortable working with databases and writing advanced queries.
 **🔗 Resources**
 
 **SOLID**
-- Passionate Coders (1:5)
-- Issam Abdelnabi
-- Omar Ahmed
+- [Passionate Coders (1:5)](https://youtube.com/playlist?list=PLsV97AQt78NRT1GmH2EJ-o-2_ILFM9feq&si=21B1bnrUzCpdDFhI)
+- [Issam Abdelnabi](https://youtube.com/playlist?list=PL4n1Qos4Tb6ThSyydEJTm7xJ3qEwE8Oyu&si=5mULtLdUI9f7Hx9b)
+- [Omar Ahmed](https://youtube.com/playlist?list=PLwWuxCLlF_uevri_OpofVLXkRRFnZ7TSV&si=qu33hQRojb9ulRSv)
 
 **Bootstrap**
-- Abdelrahman Gamal (1)
+- [Abdelrahman Gamal (1)](https://youtu.be/EzHbZjXDdKc?si=yyOL0n8ekb7vYmGq)
 
 **📝 Note**
 
@@ -229,14 +230,15 @@ Strengthen your ability to work with data, query databases, and build applicatio
 - What is LINQ?
 
 **🔗 Resources**
-- Metigator (1:10)
-- ITI Recordings
+- [Metigator (1:10)](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6Sj1Y4xJuJoWCuqleeG2yt6)
+- [ITI Recordings](https://www.youtube.com/playlist?list=PLesfn4TAj57XPaxXcGQ2mmBGyfvrvV_AaC)
+
 
 **📝 Note**
 
 Understand how to filter, sort, and retrieve information from collections.
 
-**📌 Task:** [LINQ Fundamentals](tasks/phase-2-intermediate/week-09-linq-fundamentals.md)
+**📌 Task:** - [LINQ Exercises — GitHub Repository](https://github.com/preetikrp/Linq)
 
 ### 📅 Week 10 — LINQ Advanced & C# Modern Features
 
@@ -244,14 +246,14 @@ Understand how to filter, sort, and retrieve information from collections.
 - Advanced LINQ Operations
 
 **🔗 Resources**
-- Metigator (11:18)
-- ITI Recordings
+- [Metigator (11:18)](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6Sj1Y4xJuJoWCuqleeG2yt6)
+- [ITI Recordings](https://www.youtube.com/playlist?list=PLesfn4TAj57XPaxXcGQ2mmBGyfvrvV_AaC)
 
 **📝 Note**
 
 Practice combining LINQ operations and querying related collections.
 
-**📌 Task:** [Advanced LINQ](tasks/phase-2-intermediate/week-10-advanced-linq.md)
+**📌 Task:** [Advanced LINQ]- [LINQ Exercises — GitHub Repository](https://github.com/preetikrp/Linq)
 
 ### 📅 Week 11 — Entity Framework Core Fundamentals
 
@@ -259,9 +261,9 @@ Practice combining LINQ operations and querying related collections.
 - Introduction to Entity Framework Core
 
 **🔗 Resources**
-- DevCreed (1:37)
-- Metigator (1, 2 & 5)
-- ITI Recordings
+- [DevCreed (1:37)](https://www.youtube.com/playlist?list=PL62tSREI9C-cHV28v-EqWinveTTAos8Pp)
+- [Metigator (1, 2 & 5)](https://youtube.com/playlist?list=PL4n1Qos4Tb6QZkbTWJx7wHqEABP8Pg6uv&si=8gyoMjhPShGQgkhH)
+- [ITI Recordings](https://www.youtube.com/playlist?list=PLYxGWFnJFttTXpjYdXbkYf5Gsi3AH9o0U)
 
 **📝 Note**
 
@@ -275,9 +277,9 @@ Understand how C# classes, DbContext, and databases work together.
 - Advanced Entity Framework Core
 
 **🔗 Resources**
-- DevCreed (54:70)
-- Metigator
-- ITI Recordings
+- [DevCreed (54:70)](https://www.youtube.com/playlist?list=PL62tSREI9C-cHV28v-EqWinveTTAos8Pp)
+- [Metigator](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6QZkbTWJx7wHqEABP8Pg6uv)
+- [ITI Recordings](https://www.youtube.com/playlist?list=PLYxGWFnJFttTXpjYdXbkYf5Gsi3AH9o0U)
 
 **📝 Note**
 
@@ -291,11 +293,11 @@ Focus on real-world relationships and retrieving related data efficiently.
 - Design Patterns
 
 **🔗 Resources**
-- Passionate Coders (1:8 & 14:16)
-- Metigator
-- DevGeeks (20)
-- Refactoring Guru — Article
-- DevGeeks Academy (1)
+- [Passionate Coders (1:8 & 14:16)](https://www.youtube.com/playlist?list=PLsV97AQt78NTrqUAZM562JbR3ljX19JFR)
+- [Metigator](https://youtube.com/playlist?list=PL4n1Qos4Tb6STYkwXrOdYxj_dlGqzozZN&si=dF1mR9D0tKGVemvm)
+- [DevGeeks (20)](https://youtube.com/playlist?list=PLd-dOEgzBpGnt3GuEszo_piQq52XSqAmj&si=KNSXGjJNqFUDZbWv)
+- [Refactoring Guru — C# Design Patterns](https://refactoring.guru/design-patterns/csharp)
+- [DevGeeks Academy (1)](https://youtu.be/ZdQ9-j65rJM?si=XjhaT0DcmPxklnpb)
 
 **📝 Note**
 
