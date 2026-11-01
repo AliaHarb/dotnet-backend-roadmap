@@ -337,11 +337,11 @@ Build real web applications using ASP.NET Core, understand HTTP and REST, and le
 - MVC Introduction
 
 **🔗 Resources**
-- HTTP Request & Response (Videos 8, 9 & 10)
-- ITI Recordings (1:3)
-- Coding Future (1:20)
-- Codographia
-- Ahmed Mohamady
+- [ HTTP Request & Response (Videos 8, 9 & 10)](https://youtube.com/playlist?list=PL1BztTYDF-QPgfvPouABKLwfTKxB6z7gk&si=mH1JjFX5Riraz8UA)
+- [ITI Recordings (1:3)](https://youtube.com/playlist?list=PLNFDrRZdysFzmzqno6G1EoxhIKo5sKiwL&si=LYnDGQ5WKdg0BgP1)
+- [Coding Future (1:20)](https://youtube.com/playlist?list=PLPZvv4Sjz6uHtXszCb132o7Oe_T_ur2FP&si=E8qpemfHszksIlCV)
+- [Codographia](https://www.youtube.com/playlist?list=PLX1bW_GeBRhAjpkPCTpKXJoFGe2ZpYGUC&si=1SmbO7d9-eFBHsQ-)
+- [Ahmed Mohamady](https://www.youtube.com/playlist?list=PLqPejUavRNTWqGYP-f1pHkbLYdbqi_Uhg)
 
 **📝 Note**
 
@@ -355,10 +355,10 @@ Understand HTTP requests and responses and how ASP.NET Core receives and process
 - MVC
 
 **🔗 Resources**
-- ITI Recordings (4:9)
-- Coding Future (21:36)
-- Codographia
-- Ahmed Mohamady
+- [ITI Recordings (4:9)] (https://youtube.com/playlist?list=PLNFDrRZdysFzmzqno6G1EoxhIKo5sKiwL&si=LYnDGQ5WKdg0BgP1)
+- [Coding Future (21:36)](https://youtube.com/playlist?list=PLPZvv4Sjz6uHtXszCb132o7Oe_T_ur2FP&si=E8qpemfHszksIlCV)
+- [Codographia](https://www.youtube.com/playlist?list=PLX1bW_GeBRhAjpkPCTpKXJoFGe2ZpYGUC&si=1SmbO7d9-eFBHsQ-)
+- [Ahmed Mohamady](https://www.youtube.com/playlist?list=PLqPejUavRNTWqGYP-f1pHkbLYdbqi_Uhg)
 
 **📝 Note**
 
@@ -372,10 +372,10 @@ Practice using MVC and EF Core together to build a real application.
 - MVC
 
 **🔗 Resources**
-- ITI Recordings (10:15)
-- Coding Future (39:43, 50, 53:56, 60:68)
-- Codographia
-- Ahmed Mohamady
+-[ ITI Recordings (10:15)] (https://youtube.com/playlist?list=PLNFDrRZdysFzmzqno6G1EoxhIKo5sKiwL&si=LYnDGQ5WKdg0BgP1)
+- [Coding Future (39:43, 50, 53:56, 60:68)](https://youtube.com/playlist?list=PLPZvv4Sjz6uHtXszCb132o7Oe_T_ur2FP&si=E8qpemfHszksIlCV)
+- [Codographia](https://www.youtube.com/playlist?list=PLX1bW_GeBRhAjpkPCTpKXJoFGe2ZpYGUC&si=1SmbO7d9-eFBHsQ-)
+- [Ahmed Mohamady](https://www.youtube.com/playlist?list=PLqPejUavRNTWqGYP-f1pHkbLYdbqi_Uhg)
 
 **📝 Note**
 
@@ -393,10 +393,10 @@ Focus on structuring a real application and understanding how ASP.NET Core compo
 - Role-Based Access Control
 
 **🔗 Resources**
-- ITI Recordings (16:19)
-- Coding Future (69:85)
-- Codographia
-- Ahmed Mohamady
+- [ITI Recordings (16:19)](https://youtube.com/playlist?list=PLNFDrRZdysFzmzqno6G1EoxhIKo5sKiwL&si=LYnDGQ5WKdg0BgP1)
+- [Coding Future (69:85)](https://youtube.com/playlist?list=PLPZvv4Sjz6uHtXszCb132o7Oe_T_ur2FP&si=E8qpemfHszksIlCV)
+- [Codographia](https://www.youtube.com/playlist?list=PLX1bW_GeBRhAjpkPCTpKXJoFGe2ZpYGUC&si=1SmbO7d9-eFBHsQ-)
+- [Ahmed Mohamady](https://www.youtube.com/playlist?list=PLqPejUavRNTWqGYP-f1pHkbLYdbqi_Uhg)
 
 **📝 Note**
 
@@ -414,8 +414,8 @@ Authentication answers "Who are you?" while Authorization answers "What are you 
 - Service Layer
 
 **🔗 Resources**
-- Passionate Coders (1:4)
-- ITI Recordings (1:2)
+- [Passionate Coders (1:4)](https://www.youtube.com/playlist?list=PLsV97AQt78NQ8E7cEqovH0zLYRJgJahGh)
+- [ITI Recordings (1:2)](https://youtube.com/playlist?list=PLoRh0POuk1RyWlnOvUtDvRQ1aTmz69W8L)
 
 **📝 Note**
 
@@ -435,8 +435,8 @@ Understand how a Backend API works and how clients communicate with it through H
 - DTOs
 
 **🔗 Resources**
-- Passionate Coders (5:10)
-- ITI Recordings (3:4)
+- [Passionate Coders (5:10)](https://www.youtube.com/playlist?list=PLsV97AQt78NQ8E7cEqovH0zLYRJgJahGh)
+- [ITI Recordings (3:4)](https://youtube.com/playlist?list=PLoRh0POuk1RyWlnOvUtDvRQ1aTmz69W8L)
 
 **📝 Note**
 
@@ -453,8 +453,8 @@ Connect the API layer with the database and return appropriate responses instead
 - Custom Permission-Based Authorization
 
 **🔗 Resources**
-- Passionate Coders (11:14)
-- ITI Recordings (5:6)
+- [Passionate Coders (11:14)](https://www.youtube.com/playlist?list=PLsV97AQt78NQ8E7cEqovH0zLYRJgJahGh)
+- [ITI Recordings (5:6)](https://youtube.com/playlist?list=PLoRh0POuk1RyWlnOvUtDvRQ1aTmz69W8L)
 
 **📝 Note**
 
@@ -469,8 +469,8 @@ Move from simply making an API work to building an API that is organized, unders
 - JWT Refresh Tokens
 
 **🔗 Resources**
-- JWT Token
-- JWT Refresh Token
+- [JWT Token](https://www.youtube.com/playlist?list=PL62tSREI9C-eYNE1Pyw0yv1tETs5V8WGd)
+- [JWT Refresh Token](https://youtube.com/playlist?list=PL62tSREI9C-foV0zXVpW_f0JNtTD6Wv2W&si=ktSslxKHncrctHwc)
 
 **📝 Note**
 
@@ -491,7 +491,7 @@ Dive deeper into Backend Development, architecture, performance, testing, scalab
 - Generic Repository
 
 **🔗 Resources**
-- DevCreed
+- [DevCreed](https://youtube.com/playlist?list=PL62tSREI9C-e6nQ47brLj00iSGddiee73&si=O5kyChTjJ7DOCsyI)
 
 **📝 Note**
 
@@ -506,8 +506,8 @@ Understand the problem the Repository Pattern solves and when it makes sense to 
 - Profiles
 
 **🔗 Resources**
-- AutoMapper Template
-- Mohamed Lawand
+- [AutoMapper Template](https://little-grow.notion.site/AutoMapper-af906e5017314d808aa8a169087c2ba8?pvs=143)
+- [Mohamed Lawand](https://youtu.be/87fhsf8gfDg?si=T1cWYs-hqEDB8xvE)
 
 **📝 Note**
 
@@ -521,9 +521,9 @@ Understand what problem mapping solves and when using a mapping library makes se
 - CQRS & Mediator
 
 **🔗 Resources**
-- Clean Architecture From Scratch
-- Clean Architecture & CQRS in Action
-- CQRS-Mediator — Free Pluralsight Access
+- [Clean Architecture From Scratch](https://youtube.com/playlist?list=PLPZvv4Sjz6uECy67jbHG7QtM2nCylp4YR)
+- [Clean Architecture & CQRS in Action](https://youtu.be/v9fRFyg414k)
+- [CQRS-Mediator](https://app.pluralsight.com/ilx/video-courses/0c4527fa-fb4b-4eb0-9c64-bdb66262bcd7/5150c828-433d-4951-a1c8-b77d82d779b4/11cd9b02-1072-4a39-93d3-152629d50c00) — [Free Pluralsight Access](https://youtu.be/fwoOn6Q1pN0?si=WIH7qpBZ8HRj1zEd)
 
 **📝 Note**
 
@@ -536,7 +536,7 @@ Understand application layers, their responsibilities, and how dependencies shou
 - In-Memory Caching
 
 **🔗 Resources**
-- Memory Cache
+- [Memory Cache](https://youtu.be/2jj2wH60QuE?si=4QLkNk9QJrKLTDer)
 
 **📝 Note**
 
@@ -549,8 +549,8 @@ Understand what should be cached, why caching improves performance, and when cac
 - Test Structure
 
 **🔗 Resources**
-- Metigator
-- ITI Recording
+- [Metigator](https://youtube.com/playlist?list=PL4n1Qos4Tb6RrQpmpGWALaE1PVvWR8d3A&si=f9WjgyDiA1VUJpVb)
+- [ITI Recording](https://youtube.com/playlist?list=PLNFDrRZdysFzu72k1YqrAppKCbVwamCKS&si=cPxQRrN3bqkV1uuc)
 
 **📝 Note**
 
@@ -562,7 +562,7 @@ Learn how to verify your code automatically and write components that are easier
 - Clean Code
 
 **🔗 Resources**
-- ITI Recording
+- [ITI Recording](https://youtu.be/9QW2b7whhd0?si=HuyAkvl8_YBctuZ0)
 
 **📝 Note**
 
@@ -575,7 +575,7 @@ Focus on recognizing code smells and improving existing code to make it easier t
 - SignalR
 
 **🔗 Resources**
-- ITI Recordings
+- [ITI Recordings](https://www.youtube.com/playlist?list=PLesfn4TAj57WLtiWtHP1Xkel7WD6QHvpe)
 
 **📝 Note**
 
@@ -588,9 +588,9 @@ Understand how real-time communication differs from the normal request/response 
 - Integrating an AI API into an ASP.NET Core Application
 
 **🔗 Resources**
-- Integrating With AI
-- OpenAI .NET SDK — ASP.NET Core Example
-- Google Gemini API Documentation
+- [Integrating With AI](https://www.youtube.com/watch?v=6JAdbvUFq8E)
+- [OpenAI .NET SDK — ASP.NET Core Example](https://github.com/openai/openai-dotnet/tree/main/examples/aspnet-core)
+- [Google Gemini API Documentation](https://ai.google.dev/api)
 
 **📝 Note**
 
@@ -605,15 +605,15 @@ Focus on sending requests, handling responses, and designing a clean service lay
 **🔗 Resources**
 
 **🌐 Arabic**
-- DevCreed (1:4)
+- [DevCreed (1:4)](https://youtube.com/playlist?list=PL62tSREI9C-ccQuNXXAty3Vfxi0QcqCJP&si=rCLiaiilbNv1QqdE)
 
 **🌐 English**
-- Rahul Nath
-- IAmTimCorey
+- [Rahul Nath](https://youtu.be/39gIPekzpjs?si=GJLv6WdSGj2Fm0UJ)
+- [IAmTimCorey](https://youtu.be/ip3Z4ZcAgA8?si=MWh2rh3cgvsBgrBe)
 
 **📖 Documentation**
-- Microsoft Learn — Background Tasks with Hosted Services
-- Microsoft Learn — Cancellation in Managed Threads
+- [Microsoft Learn — Background Tasks with Hosted Services](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/host/hosted-services?view=aspnetcore-10.0)
+- [Microsoft Learn — Cancellation in Managed Threads](https://learn.microsoft.com/en-us/dotnet/standard/threading/cancellation-in-managed-threads)
 
 **📝 Note**
 
@@ -627,14 +627,14 @@ Understand how background tasks run independently of HTTP requests and how Cance
 - Options Pattern
 
 **🔗 Resources**
-- Rahul Nath — Configuration
-- IAmTimCorey — Structured Logging (First 46 minutes and 40 seconds only)
-- Rahul Nath — Options Pattern
+- [Rahul Nath — Configuration](https://youtu.be/5GlgHV_12-k?si=mkasth2V_jFhbB7_I)
+- [IAmTimCorey — Structured Logging](https://youtu.be/_iryZxv8Rxw?si=fRF8EvTH_Egv6OrE)
+- [Rahul Nath — Options Pattern](https://youtu.be/SizJCLcjbOA?si=wrVpJl0L39HMr9wP)
 
 **📖 Documentation**
-- Microsoft Learn — Configuration in ASP.NET Core
-- Microsoft Learn — Options Pattern
-- Microsoft Learn — Logging in .NET and ASP.NET Core
+- [Microsoft Learn — Configuration in ASP.NET Core](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/configuration/?view=aspnetcore-10.0)
+- [Microsoft Learn — Options Pattern](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/configuration/options?view=aspnetcore-10.0)
+- [Microsoft Learn — Logging in .NET and ASP.NET Core](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/logging/?view=aspnetcore-10.0)
 
 **📝 Note**
 
@@ -646,11 +646,11 @@ Understand how application settings are managed, how related settings can be org
 - What Are Health Checks?
 
 **🔗 Resources**
-- Rahul Nath — Health Checks in ASP.NET Core
-- Milan Jovanović — How to Add Health Checks in ASP.NET Core
+- [Rahul Nath — Health Checks in ASP.NET Core](https://www.youtube.com/watch?v=9ntrl3KNCpo)
+- [Milan Jovanović — How to Add Health Checks in ASP.NET Core](https://www.youtube.com/watch?v=4abSfjdzqms)
 
 **📖 Documentation**
-- Microsoft Learn — Health Checks in ASP.NET Core
+- [Microsoft Learn — Health Checks in ASP.NET Core](https://learn.microsoft.com/en-us/aspnet/core/host-and-deploy/health-checks?view=aspnetcore-10.0)
 
 **📝 Note**
 
@@ -666,16 +666,16 @@ Learn how Health Checks help monitor application availability and the health of 
 **🔗 Resources**
 
 **🌐 Arabic**
-- Rate Limiting in ASP.NET Core — Arabic Overview
+- [Rate Limiting in ASP.NET Core — Arabic Overview (LinkedIn)](https://www.linkedin.com/posts/nourhan-khaled-27143914b_rate-limiting-in-aspnet-core-activity-7276155114543861761-iT05Trevoir)
 
 **🌐 English**
-- Trevoir Williams — API Rate Limiting in ASP.NET Core
-- Milan Jovanović — Make Your HttpClient Resilient: Circuit Breaker, Retry, Timeout
+- [Trevoir Williams — API Rate Limiting in ASP.NET Core](https://www.youtube.com/watch?v=1-tcy9EtaEM)
+- [Milan Jovanović — Make Your HttpClient Resilient: Circuit Breaker, Retry, Timeout](https://www.youtube.com/watch?v=aVyCa1RhZIc)
 
 **📖 Documentation**
-- Microsoft Learn — Rate Limiting Middleware in ASP.NET Core
-- Microsoft Learn — Introduction to Resilient App Development
-- Microsoft Learn — Build Resilient HTTP Apps
+- [Microsoft Learn — Rate Limiting Middleware in ASP.NET Core](https://learn.microsoft.com/en-us/aspnet/core/performance/rate-limit?view=aspnetcore-10.0)
+- [Microsoft Learn — Introduction to Resilient App Development](https://learn.microsoft.com/en-us/dotnet/core/resilience/)
+- [Microsoft Learn — Build Resilient HTTP Apps](https://learn.microsoft.com/en-us/dotnet/core/resilience/http-resilience?tabs=dotnet-cli)
 
 **📝 Note**
 
@@ -694,7 +694,7 @@ Understand how to deploy and run Backend applications in production environments
 - Azure Fundamentals
 
 **🔗 Resources**
-- ITI Recordings
+- [ITI Recordings](https://youtube.com/playlist?list=PLesfn4TAj57WWPBzcEIGEfwzCPpw27-Lu&si=JjZf80QVb0XGxXAc)
 
 **📝 Note**
 
@@ -707,8 +707,8 @@ Understand the basics of deploying and running Backend applications in the cloud
 - Docker
 
 **🔗 Resources**
-- Passionate Coders
-- Codographia
+- [Passionate Coders](https://www.youtube.com/playlist?list=PLsV97AQt78NTJTBGKI0GE3eJc2Q_SC2B-)
+- [Codographia](https://www.youtube.com/playlist?list=PLX1bW_GeBRhCS2TJvGgu38P-Rf9aNXKZD)
 
 **📝 Note**
 
@@ -726,7 +726,7 @@ Learn how to use AI effectively in your development workflow while maintaining a
 - Prompt Engineering
 
 **🔗 Resources**
-- Prompt Engineering
+- [Prompt Engineering](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
 
 **📝 Note**
 
@@ -739,9 +739,9 @@ Focus on communicating effectively with AI and evaluating the solutions it provi
 - MCP Concepts
 
 **🔗 Resources**
-- Yahia Tech — Claude Code & MCP
-- MCP
-- Fathy & Abusrea — Claude Code & MCP
+- [Yahia Tech — Claude Code & MCP](https://www.youtube.com/watch?v=wbHCWzc71Sk)
+- [MCP](https://www.deeplearning.ai/short-courses/mcp-build-rich-context-ai-apps-with-anthropic/)
+- [Fathy & Abusrea — Claude Code & MCP](https://www.youtube.com/playlist?list=PL0_C_32YKLpxc59CycdMTMCQpNbuWwazo)
 
 **📝 Note**
 
@@ -758,8 +758,9 @@ Understand how MCP connects AI models with external tools and data sources and b
 5. Focus on understanding concepts rather than memorizing them.
 6. Don't rush. Consistency matters more than speed.
 
-> 💡 **Remember:** The goal is not just to finish the roadmap. The goal is to become a developer who understands what they build and why they build it.
+>  **Remember:** The goal is not just to finish the roadmap. The goal is to become a developer who understands what they build and why they build it.
 
 ---
 
 ⭐ Keep Learning. Keep Building. Keep Improving.
+Verrry GOOD LUCK⭐⭐
