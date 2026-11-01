@@ -83,7 +83,6 @@ Build a strong programming foundation using C# and prepare for Backend Developme
 - [Passionate Coders](https://www.youtube.com/playlist?list=PLsV97AQt78NT0H8J71qe7edwRpAirfqOI)
 - [Codographia](https://youtube.com/playlist?list=PLX1bW_GeBRhCU9l7examhVrARmXHHRrLR&si=fb-w5dS3XwPl8N7E)
 - [Metigator](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6SWPbJNpiznp-Ok4A8J_23l)
-- [Microsoft Foundational C# Certification — FreeCodeCamp](https://www.freecodecamp.org/news/free-microsoft-c-sharp-certification/)
 
 **📝 Note**
 
@@ -355,7 +354,7 @@ Understand HTTP requests and responses and how ASP.NET Core receives and process
 - MVC
 
 **🔗 Resources**
-- [ITI Recordings (4:9)] (https://youtube.com/playlist?list=PLNFDrRZdysFzmzqno6G1EoxhIKo5sKiwL&si=LYnDGQ5WKdg0BgP1)
+- [ITI Recordings (4:9)](https://youtube.com/playlist?list=PLNFDrRZdysFzmzqno6G1EoxhIKo5sKiwL&si=LYnDGQ5WKdg0BgP1)
 - [Coding Future (21:36)](https://youtube.com/playlist?list=PLPZvv4Sjz6uHtXszCb132o7Oe_T_ur2FP&si=E8qpemfHszksIlCV)
 - [Codographia](https://www.youtube.com/playlist?list=PLX1bW_GeBRhAjpkPCTpKXJoFGe2ZpYGUC&si=1SmbO7d9-eFBHsQ-)
 - [Ahmed Mohamady](https://www.youtube.com/playlist?list=PLqPejUavRNTWqGYP-f1pHkbLYdbqi_Uhg)
@@ -372,7 +371,7 @@ Practice using MVC and EF Core together to build a real application.
 - MVC
 
 **🔗 Resources**
--[ ITI Recordings (10:15)] (https://youtube.com/playlist?list=PLNFDrRZdysFzmzqno6G1EoxhIKo5sKiwL&si=LYnDGQ5WKdg0BgP1)
+-[ ITI Recordings (10:15)](https://youtube.com/playlist?list=PLNFDrRZdysFzmzqno6G1EoxhIKo5sKiwL&si=LYnDGQ5WKdg0BgP1)
 - [Coding Future (39:43, 50, 53:56, 60:68)](https://youtube.com/playlist?list=PLPZvv4Sjz6uHtXszCb132o7Oe_T_ur2FP&si=E8qpemfHszksIlCV)
 - [Codographia](https://www.youtube.com/playlist?list=PLX1bW_GeBRhAjpkPCTpKXJoFGe2ZpYGUC&si=1SmbO7d9-eFBHsQ-)
 - [Ahmed Mohamady](https://www.youtube.com/playlist?list=PLqPejUavRNTWqGYP-f1pHkbLYdbqi_Uhg)
